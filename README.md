@@ -7,9 +7,9 @@
 
 ---
 
-**Documentation**: [https://Glyphack.github.io/slack-gpt](https://Glyphack.github.io/slack-gpt)
+**Documentation**: [https://Glyphack.github.io/slack-chatgpt](https://github.com/Glyphack/slack-chatgpt)
 
-**Source Code**: [https://github.com/Glyphack/slack-gpt](https://github.com/Glyphack/slack-gpt)
+**Source Code**: [https://github.com/Glyphack/slack-chatgpt](https://github.com/Glyphack/slack-chatgpt)
 
 **PyPI**: [https://pypi.org/project/slack-gpt/](https://pypi.org/project/slack-gpt/)
 
